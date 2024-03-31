@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Dmoney test Assuerd Automation">
+    <test name="Calculator Automation">
+        <classes>
+            <class name="TestRunner">
+
+            </class>
+        </classes>
+    </test>
+</suite>
